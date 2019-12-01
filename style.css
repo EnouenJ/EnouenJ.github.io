@@ -1,17 +1,18 @@
 
+/*    background-color:  #d4a583 ;*/
 element.style {
 }
 h1 {
   color: #800000;
   text-align: left;
-  font-size: 84px;
+  font-size: 69px;
   font-family: "Verdana";
   font-weight: 900;
   padding-bottom: 00px;
   
 }
 body {
-    background-color:  #d4a583 ;
+    background-color:  #ffe6cc ;
     height: 100%;
     padding: 0;
 }
@@ -33,6 +34,9 @@ user agent stylesheet
 html {
     color: -internal-root-color;
 }
+a{
+  padding-left:21px
+}
 a:link {
   color: brown;
 }
@@ -45,16 +49,28 @@ a:hover {
 a:active {
   color: orange;
 }
+p {
+  color: #800000;
+  width: 70%;
+  padding-left:21px;
+}
+h3 {
+  color: #800000;
+  text-decoration: underline;
+}
+dd {
+  width: 70%;
+}
 
 
-
-
-
+.gap {
+  padding: 15px;
+}
 .topnav {
   background:  url("images/texture-photography-wood-bark.jpg");
   background-color: #573B00;
   overflow: hidden;
-  padding-bottom: 70px;
+  padding-bottom: 34px;
 }
 .topnav a {
   float: left;
@@ -73,5 +89,16 @@ a:active {
   background-color: #FFA500;
   color: white;
 }
+.topnav h1 {
+  float:right;
+  margin:auto;
+  text-align:center;
+  background-color:rgba(255, 255, 255, 0.5);
+  margin-top:13px;
+  margin-right:14px;
+}
+
+
+
 
 
