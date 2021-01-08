@@ -81,7 +81,9 @@ li {
   padding: 15px;
 }
 .topnav {
+
   background:  url("images/texture-photography-wood-bark.jpg");
+  /*background:  url("images/bark_wrapped_filtered_4_3.png");*/
   background-color: #573B00;
   overflow: hidden;
   padding-bottom: 34px;
